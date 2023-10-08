@@ -65,8 +65,8 @@ const MapboxMap = ()=>  {
           mapboxAccessToken={token}
           initialViewState={{
             latitude:  45.137451 ,longitude: -68.137343,
-            zoom: 5    }}
-          mapStyle="mapbox://styles/mapbox/streets-v11"
+            zoom: 5}}
+          mapStyle="mapbox://styles/abarad/clnhg6khw002x01nu3huc9rgs"
         >
             <Marker longitude={ -68.137343} latitude={ 45.137451}>
                 <img width={50} height={50} src="https://cdn3d.iconscout.com/3d/premium/thumb/hut-8845899-7151170.png" />
